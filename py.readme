@@ -1,0 +1,98 @@
+
+1. WAP to convert Celsius into Fahrenheit.
+Formula: `(C × 1.8) + 32`
+2. WAP to swap the values of two variables using two variables.
+3. WAP to swap the values of two variables using three variables.
+4. WAP to convert decimal into binary. *(Wipro)*
+5. WAP to convert decimal into octal or hexadecimal.
+6. WAP to check whether a given number is positive or negative. If it is positive, square the number.
+7. WAP to check whether a given number is odd or not. If it is odd, cube the number.
+8. WAP to check whether a given character is an alphabet (letter) or not. If it is an alphabet, print “Hello World.”
+9. WAP to check whether a given character is uppercase or not. If it is uppercase, print that character.
+10. WAP to check whether a given number is divisible by both 3 and 7. If it is divisible by both, print “The number is divisible by both.”
+11. WAP to print whether a number is even or odd.
+12. WAP to check whether a given number is even or odd. If it is even, square the number; if it is odd, cube the number.
+13. WAP to check whether a given character is `a`, `e`, `i`, `o`, or `u`.
+14. WAP to check whether a given character is a consonant or not.
+15. WAP to find the largest between two numbers.
+16. WAP to find the smallest between two numbers.
+17. WAP to check whether a given number is a three-digit number or not.
+18. WAP to check whether a given string is a palindrome or not.
+19. WAP to check whether a given number is positive, negative, or zero.
+20. WAP to find the largest and smallest among three numbers.
+21. WAP to check whether a given year is a leap year or not.
+22. WAP to create a calculator to perform operations like `+`, `-`, `/`, `*`.
+23. WAP to take a student's percentage as input and determine the grade based on the following conditions:
+* **Percentage** — **Grade**
+* 90 and above — A
+* 75 - 89 — B
+* 60 - 74 — C
+* 40 - 59 — D
+* Below 40 — Fail
+
+
+24. WAP to determine the age group of a person based on the following conditions:
+* **Age** — **Output**
+* 60 and above — Senior Citizen
+* 20 to 59 — Adult
+* 13 to 19 — Teenage *(Corrected from 12 to 90)*
+* Below 13 — Child
+
+
+25. WAP to take a number (1 - 7) as input and display the corresponding day of the week.
+26. WAP to calculate the tax based on the salary:
+* **Salary** — **Tax**
+* Above 20 Lakhs — 30%
+* Above 15 Lakhs — 15%
+* Above 12 Lakhs — 10%
+* Below 12 Lakhs — No tax
+
+
+27. WAP to check whether a given character (`a`, `e`, `i`, `o`, `u`) is a vowel and not a consonant.
+28. **Write a program to check whether a given character is a vowel (`a`, `e`, `i`, `o`, `u`) or a consonant.**
+29. **Write a program that takes age and monthly income as input and checks whether a person is eligible for a loan using nested `if` statements.**
+**Conditions:**
+
+* Age should be **above 21**.
+* If the age is above 21, check whether the monthly income is **more than ₹30,000**.
+* If both conditions are satisfied, the person is **eligible for a loan**; otherwise, they are **not eligible**.
+
+30. **Write a program to calculate the bonus of an employee using nested `if` statements.**
+**Company Rules:**
+
+* If the employee has **5 or more years of experience**:
+* If the employee's salary is **less than ₹50,000**, the bonus is **₹10,000**.
+* Otherwise, the bonus is **₹5,000**.
+
+
+* If the employee has **less than 5 years of experience**, the employee is **not eligible for a bonus**.
+
+31. **Write a program to calculate the grade of a student using nested `if` statements.**
+**Conditions:**
+
+* If the student's marks are **35 or above**, the student is **Pass**.
+* Marks **90–100**: Grade **A**
+* Marks **75–89**: Grade **B**
+* Marks **60–74**: Grade **C**
+* Marks **35–59**: Grade **D**
+
+
+* If the student's marks are **below 35**, print **Fail**.
+
+32. WAP to print your name 5 times.
+33. WAP to display all the numbers starting from 1 to 7.
+34. WAP to print all the numbers starting from 721.
+35. WAP to display all the even numbers starting from 1 to 10.
+36. WAP to display all the odd numbers starting from 1 to 10.
+37. WAP to display all numbers by taking a range from the user.
+38. WAP to add 5 to all the even numbers and multiply all the odd numbers by 5, starting from 1 to 7.
+39. WAP to print all the numbers starting from 1 to 7 in a specific given style.
+40. WAP to print all the alphabets starting from A to Z.
+41. WAP to print alphabets starting from Z to A in lowercase (small letters).
+42. WAP to print the table of 7.
+43. WAP to print the multiplication table of a number taken from the user.
+44. WAP to add all the numbers from 1 to 5.
+45. WAP to multiply all the numbers starting from 1 to 5.
+46. WAP to add all the even numbers starting from 1 to 10.
+47. WAP to multiply all the odd numbers present between 5 and 15.
+48. WAP to count how many digits are present inside a given number using a `while` loop.
