@@ -1,9 +1,23 @@
-# wap to all the digit present inside the given number.
-a = int(input("enter a number"))
-sum=0
-while a!=0:
-    ld=%2==0:
-    if ld%2==0:
-    sum=sum+ld
-num=num//10
-print(sum)
+print("---------------------------------------------------------------")
+
+a = int(input("Enter the number:"))
+b = int(input("Enter the number:"))
+
+print("First Choice os A & B")
+
+print("A =",a)
+print("B =",b)
+
+
+a = a+b
+b= a-b
+a = a-b
+
+print("After Swap A & B")
+
+
+print("A =",a)
+print("B =",b)
+
+print("---------------------------------------------------------------")
+q
