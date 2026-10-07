@@ -40,9 +40,15 @@
 # print("char present at even",s[0: :+2])
 # print("char present at odd",s[1: :+2]
 
-for i in range(1,6):
-    for j in range (1,6):
-        print("*",end="")
+# for i in range(1,6):
+#     for j in range (1,6):
+#         print("*",end="")
+
+n = int(input("Enter the rows"))
+for i in range(n):
+		print("* "*(i+1))
+
+
 
         
 
