@@ -1,0 +1,20 @@
+[project]
+name = "ab-hoge-python"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "scipy",
+    "matplotlib",
+    "seaborn",
+    "statsmodels",
+    "jupyter",
+    "notebook",
+    "openpyxl",
+    "xlrd",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
